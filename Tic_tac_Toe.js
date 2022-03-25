@@ -103,7 +103,6 @@ function Winner(id) {
     } 
   else {
     Draw()
-    console.log("M")
   }
 }
 
